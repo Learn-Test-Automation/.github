@@ -1,0 +1,2 @@
+# .github
+Organisation base repository
