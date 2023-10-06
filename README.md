@@ -1,4 +1,6 @@
-![profile-pic](assets/YT-profile.png)
+<div align="center">
+  <img src="assets/YT-profile.png" alt="logo" width="300" height="auto" />
+</div>
 
 Welcome to the GitHub organisation for [Learn Test Automation with Wasiq Bhamla](https://www.youtube.com/@WasiqBhamla)
 
