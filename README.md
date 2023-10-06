@@ -4,7 +4,7 @@
 
 <br />
 
-# Welcome to the GitHub organization for [Learn Test Automation with Wasiq Bhamla](https://www.youtube.com/@WasiqBhamla)
+# 👋 Welcome to the GitHub organization for [Learn Test Automation with Wasiq Bhamla](https://www.youtube.com/@WasiqBhamla)
 
 Here you will find all the demo code which is shown in the videos in this organization's repositories.
 
