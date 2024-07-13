@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/YT-profile.png" alt="logo" width="300" height="auto" />
+  <img src="../assets/YT-profile.png" alt="logo" width="300" height="auto" />
 </div>
 
 <br />
